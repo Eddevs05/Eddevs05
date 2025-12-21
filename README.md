@@ -1,4 +1,4 @@
-# 👋 Edgard
+# 💻 Edgard
 
 **`Estagiário de TI/Desenvolvimento`**
 
